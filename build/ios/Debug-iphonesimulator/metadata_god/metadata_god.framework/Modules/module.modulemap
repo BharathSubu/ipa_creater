@@ -1,0 +1,11 @@
+framework module metadata_god {
+  umbrella header "metadata_god-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module metadata_god.Swift {
+  header "metadata_god-Swift.h"
+  requires objc
+}

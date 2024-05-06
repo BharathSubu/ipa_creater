@@ -1,0 +1,166 @@
+{
+  "abi": "X86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s/x86_64",
+  "soFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx/Debug/436b6s2s/obj/x86_64",
+  "soRepublishFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cmake/debug/obj/x86_64",
+  "abiPlatformVersion": 16,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx/Debug/436b6s2s/obj",
+    "soRepublishFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cmake/debug/obj",
+    "cxxBuildFolder": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s",
+    "intermediatesFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx/Debug/436b6s2s",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx",
+      "intermediatesBaseFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates",
+      "intermediatesFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx",
+      "gradleModulePathName": ":metadata_god",
+      "moduleRootFolder": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android",
+      "moduleBuildFile": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/build.gradle",
+      "makeFile": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/bharathsubu/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1",
+        "ninjaExe": "/Users/bharathsubu/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/bharathsubu/subu/software/Open Source/BlackHole/android",
+        "sdkFolder": "/Users/bharathsubu/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s/prefab/x86_64",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "436b6s2s40sj5j2v4w5p6j50d2b1d6h4h2a5b4p5w301i354t1d456d4h5h7",
+  "configurationArguments": [
+    "-H/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d16",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DANDROID_ABI\u003dx86_64",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64",
+    "-DANDROID_NDK\u003d/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/bharathsubu/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/bharathsubu/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx/Debug/436b6s2s/obj/x86_64",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/bharathsubu/subu/software/Open Source/BlackHole/build/metadata_god/intermediates/cxx/Debug/436b6s2s/obj/x86_64",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s/x86_64",
+    "-GNinja"
+  ]
+}

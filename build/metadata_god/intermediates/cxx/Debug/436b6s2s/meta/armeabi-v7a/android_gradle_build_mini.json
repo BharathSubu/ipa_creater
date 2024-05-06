@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bharathsubu/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bharathsubu/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/bharathsubu/.pub-cache/hosted/pub.dev/metadata_god-0.5.0/android/.cxx/Debug/436b6s2s/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

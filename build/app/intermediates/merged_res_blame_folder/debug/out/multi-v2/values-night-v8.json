@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bharathsubu/subu/software/Open Source/BlackHole/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/bharathsubu/subu/software/Open Source/BlackHole/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1057",
+                        "endLines": "11,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "706,1459"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,594",
+                        "endLines": "10,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "589,996"
+                    }
+                }
+            ]
+        }
+    ]
+}
